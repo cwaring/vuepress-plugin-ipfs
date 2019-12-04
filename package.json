@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-plugin-ipfs",
+  "version": "1.0.0",
+  "description": "Host a VuePress project on IPFS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwaring/vuepress-plugin-ipfs.git"
+  },
+  "keywords": [
+    "ipfs",
+    "vuepress"
+  ],
+  "author": "@cwaring",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cwaring/vuepress-plugin-ipfs/issues"
+  },
+  "homepage": "https://github.com/cwaring/vuepress-plugin-ipfs#readme"
+}
