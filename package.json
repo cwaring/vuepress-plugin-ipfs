@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/cwaring/vuepress-plugin-ipfs/issues"
   },
-  "homepage": "https://github.com/cwaring/vuepress-plugin-ipfs#readme"
+  "homepage": "https://github.com/cwaring/vuepress-plugin-ipfs#readme",
+  "dependencies": {
+    "all-relative": "^1.0.1"
+  }
 }
