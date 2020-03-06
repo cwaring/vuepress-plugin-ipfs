@@ -3,7 +3,7 @@ const { exec } = require('child_process')
 
 module.exports = (options, ctx) => {
   const { isProd, outDir } = ctx
-  const name = '@cwaring/vuepress-plugin-ipfs'
+  const name = 'vuepress-plugin-ipfs'
 
   // this is a production mode plugin
   // bail during development

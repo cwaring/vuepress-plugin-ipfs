@@ -1,5 +1,5 @@
 {
-  "name": "@cwaring/vuepress-plugin-ipfs",
+  "name": "vuepress-plugin-ipfs",
   "version": "1.0.0",
   "description": "Host a VuePress project on IPFS",
   "main": "index.js",
