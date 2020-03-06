@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-ipfs",
+  "name": "@cwaring/vuepress-plugin-ipfs",
   "version": "1.0.0",
   "description": "Host a VuePress project on IPFS",
   "main": "index.js",
@@ -12,8 +12,13 @@
   },
   "keywords": [
     "ipfs",
-    "vuepress"
+    "vuepress",
+    "plugin"
   ],
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
   "author": "@cwaring",
   "license": "MIT",
   "bugs": {
