@@ -2,12 +2,8 @@ const { resolve } = require('path')
 const { exec } = require('child_process')
 
 module.exports = (options, ctx) => {
-  const { isProd, outDir, siteConfig, themeEntry } = ctx
+  const { isProd, outDir } = ctx
   const name = 'vuepress-plugin-ipfs'
-
-  // delete base config paths as all IPFS sites are served from a root domain
-  if (siteConfig) delete siteConfig.base
-  if (themeEntry) delete themeEntry.base
 
   // this is a production mode plugin
   // bail during development
