@@ -1,5 +1,7 @@
 # VuePress Plugin IPFS
 
+![](https://user-images.githubusercontent.com/106938/70317123-0b3abc80-1815-11ea-859a-eb91c0ab4a81.png)
+
 > Convert a [VuePress](https://vuepress.vuejs.org/) 1.x bundle into relative paths making it suitable for hosting on IPFS.
 
 ## Usage
