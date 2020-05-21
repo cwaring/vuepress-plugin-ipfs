@@ -26,6 +26,6 @@
   },
   "homepage": "https://github.com/cwaring/vuepress-plugin-ipfs#readme",
   "dependencies": {
-    "all-relative": "^1.0.1"
+    "all-relative": "^1.1.0"
   }
 }
